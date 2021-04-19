@@ -17,4 +17,10 @@
 
 # Related Images to Our Dashboard
 
+![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(7).png)
+
+![Dashboard]()
+
+![Dashboard]()
+
 ![Dashboard]()
