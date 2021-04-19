@@ -13,7 +13,7 @@
 
 # Google Studio Link For Dashboard
 
-<i></i>
+<i>https://datastudio.google.com/reporting/00579b1e-bb8c-47b6-b7f3-9e84e6f638fd</i>
 
 # Related Images to Our Dashboard
 
@@ -23,4 +23,7 @@
 
 ![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(5).png)
 
-![Dashboard]()
+![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(5).png)
+
+# Demo vedio For Dasboard
+[![Game](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(7).png)](https://youtu.be/pav0J1pAq4I)
