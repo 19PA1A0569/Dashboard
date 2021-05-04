@@ -26,4 +26,4 @@
 ![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-05-04%20(7).png)
 
 # Demo vedio For Dasboard
-[![Game](https://github.com/19PA1A0569/pictures/blob/main/PhotoCollage_1620109286323.jpg)(https://youtu.be/pav0J1pAq4I)
+[![Game](https://github.com/19PA1A0569/pictures/blob/main/PhotoCollage_1620109286323.jpg)](https://youtu.be/pav0J1pAq4I)
