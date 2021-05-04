@@ -19,7 +19,7 @@
 
 ![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-05-04%20(8).png)
 
-![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(4).png)
+![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-05-04%20(5).png)
 
 ![Dashboard](https://github.com/19PA1A0569/Dashboard/blob/main/2021-04-19%20(5).png)
 
